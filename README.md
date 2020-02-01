@@ -1,2 +1,2 @@
 # demoapp
-This is description of the code written by your's truly.
+This description of the code is written by your's truly.
